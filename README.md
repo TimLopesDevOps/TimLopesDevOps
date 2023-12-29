@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TimLopesDevOps
-- 👀 I’m interested in Cloud engineering and AI
-- 👩‍🎓 Computer Applications @ [HAMK UAS](https://www.hamk.fi/)
+- 👀 Interested in Cloud engineering and AI
+- 👩‍🎓 Studying Computer Applications @ [HAMK UAS](https://www.hamk.fi/)
 - 🌐 Find more about me on my website @ [Tim Lopes](https://timlopes.eu)
 
 
